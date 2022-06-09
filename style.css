@@ -1,0 +1,76 @@
+h1{
+    color: rgb(0, 255, 242);
+    background-color: black;
+    justify-content: center;
+    border: inset 5px rgb(0, 218, 199);
+}
+nav{
+    Color: rgb(9, 209, 182);
+    background-color: rgb(0, 0, 0);  
+    border: inset 10px rgb(0, 218, 199);
+}
+H2{
+    color: rgb(0, 255, 242);
+    background-color: black;
+    justify-content: center;
+    border: inset 5px rgb(0, 218, 199);
+
+}
+h5{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 20px;
+    position: fixed;
+}
+
+.padre-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    background: black;
+    color: white;
+
+}
+.container-footer-all{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+.container-body{
+    display: flex;
+
+}
+.colum1{
+    max-width: 400px;
+}
+.colum1 h1{
+    font-size: 15px;
+}
+.colum1 p{
+    font-size: 14px;
+    color: white;
+    margin-top: 20px;
+}
+.colum2 h1{
+    font-size: 15px;  
+}
+.row{
+    margin-top: 20px;
+    display: flex;
+}
+.row img{
+    width: 36px;
+    height: 36px;
+}
+.row lebel{
+    margin-top: 10px;
+    margin-left: 2px;
+}
+.row2 img{
+    width:36px;
+    height: 36px;
+}
